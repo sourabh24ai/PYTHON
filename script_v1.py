@@ -1,5 +1,9 @@
-##Creating script in Python
-
 import os
 
-print(os.name)
+print(os.getcwd())
+print(os.listdir())
+
+
+print("Hello, World!")
+print("This is a script file.")
+print("This is an appended line.")
